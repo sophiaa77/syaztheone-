@@ -2,7 +2,7 @@
   "select_ads": "applovin",
   "unity": [
     {
-      "id_ads": "",
+      "id_ads": "applovin",
       "unit_banner": "Banner_Android",
       "unit_inter": "Interstitial_Android"
     }
